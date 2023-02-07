@@ -2,14 +2,6 @@
 #### I am GitHub Readme Generator's creator
 I'm Samuel from India, and I am passionate about machine learning, software dev, and competitive programming. I really enjoy coding and love creating small passion projects on the side. I'am currently a Master in computer science student at George Mason. You can check my LinkedIn at https://www.linkedin.com/in/samuel-franklin-a918961b1/.
 
-Skills: C++/C/PYTHON/TENSORFLOW / REACT / JS / HTML / CSS/
-
-- 🌱 I’m currently learning GO/WEB3/VUE.JS/NEXT.JS 
-- 🤔 I’m looking for help with Finding Internships 
-- 😄 Pronouns: he/him 
-
-
-
 
 
 ## 🔨 Languages and Tools:
@@ -31,3 +23,11 @@ Skills: C++/C/PYTHON/TENSORFLOW / REACT / JS / HTML / CSS/
 <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a>
 
 <br>
+
+
+<p>
+
+- 🌱 I’m currently learning GO/WEB3/VUE.JS/NEXT.JS 
+- 🤔 I’m looking for help with Finding Internships 
+- 😄 Pronouns: he/him 
+</p>
