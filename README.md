@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Samuel Franklin
 
-![I am ]<img height=100>(https://raw.githubusercontent.com/samuel-frankliln/samuel-frankliln/main/Screenshot_20210817-155108_Chrome.jpg)<img/>
+![I am ](https://raw.githubusercontent.com/samuel-frankliln/samuel-frankliln/main/github-header-image.png)
 
 I'm Samuel from India, and I am passionate about machine learning, software dev, and competitive programming. I really enjoy coding and love creating small passion projects on the side. I'am currently a Master in computer science student at George Mason. You can check my LinkedIn at https://www.linkedin.com/in/samuel-franklin-a918961b1/.
 
