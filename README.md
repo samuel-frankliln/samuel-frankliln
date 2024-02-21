@@ -28,7 +28,7 @@ I'm Samuel from India, and I am passionate about machine learning, software dev,
 
 <p>
 
-- 🌱 I’m currently learning GO/WEB3/VUE.JS/NEXT.JS 
-- 🤔 I’m looking for help with Finding Internships 
+- 🌱 I’m currently learning NEXT.JS/Tailwind CSS 
+- 🤔 I’m looking for help with Finding Internships and Full time oppurtunities
 - 😄 Pronouns: he/him 
 </p>
