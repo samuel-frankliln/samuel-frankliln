@@ -27,8 +27,16 @@ I'm Samuel from India, and I am passionate about Data Engineering, machine learn
 
 
 <p>
+🌱 Currently Exploring:
 
-- 🌱 I’m currently learning NEXT.JS/Tailwind CSS 
-- 🤔 I’m looking for help with Finding Internships and Full time oppurtunities
-- 😄 Pronouns: he/him 
+	•	Learning advanced front-end frameworks like NEXT.js and Tailwind CSS
+	•	Actively looking for full-time opportunities in Data Engineering, Machine Learning, and Software Development.
+	•	Building skills in Power BI and AWS Solutions Architecture for enhanced project outcomes.
+
+🔍 Quick Facts:
+
+	•	Pronouns: he/him
+	•	Engaged in philosophy and psychology, expanding my understanding of human behavior and thought.
+	•	Motivated by challenges and passionate about continuous learning
+
 </p>
