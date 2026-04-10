@@ -1,7 +1,7 @@
 
 ![I am ](https://raw.githubusercontent.com/samuel-frankliln/samuel-frankliln/main/github-header-image.png)
 
-I'm Samuel f, and I am passionate about Data Engineering, machine learning, software dev, and competitive programming. I really enjoy coding and love creating small passion projects . I'am a Data Analyst at George Mason Unviersity. You can check my LinkedIn at https://www.linkedin.com/in/samuel-franklin-a918961b1/.
+I'm Samuel f, and I am passionate about Data Engineering, machine learning, software dev, and competitive programming. I really enjoy coding and love creating small passion projects . I'am a Data Engineer at Virginia Office of Data Governance and Analytics. You can check my LinkedIn at https://www.linkedin.com/in/samuel-franklin-a918961b1/.
 
 
 
