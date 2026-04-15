@@ -1,42 +1,50 @@
-
 ![I am ](https://raw.githubusercontent.com/samuel-frankliln/samuel-frankliln/main/github-header-image.png)
 
-I'm Samuel f, and I am passionate about Data Engineering, machine learning, software dev, and competitive programming. I really enjoy coding and love creating small passion projects . I'am a Data Engineer at Virginia Office of Data Governance and Analytics. You can check my LinkedIn at https://www.linkedin.com/in/samuel-franklin-a918961b1/.
+# Hey, I'm Franklin Samuel 👋
 
+**Data Engineer & Analyst** at the **Virginia Information Technologies Agency (VITA)** — Office of Data Governance and Analytics (ODGA). I work at the intersection of public sector data infrastructure, applied AI, and data governance. My current focus is building responsible, production-grade AI and data systems for Virginia state government.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-franklin-a918961b1/) • 📍 Richmond, Virginia
 
-## 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img align="left" alt="C" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c/c.svg"/></a>
-<a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%23/c%23.svg" alt="c#" height='42px'/> </a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"> </a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="Firebase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Redux" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/redux/redux.svg" /> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Sass" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/sass/sass.svg"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Webpack" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/webpack/webpack.svg"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a>
+---
 
-<br>
+## 🚀 What I'm Working On
 
+- **AI-powered open data discovery** — Building a RAG-based semantic search system on the [Virginia Open Data Portal](https://data.virginia.gov), enabling cross-agency dataset discovery using LLMs (Claude, all-MiniLM-L6-v2 embeddings, Streamlit UI)
+- **Affordability Dashboard** — Medallion architecture in Databricks (Azure), ingesting Zillow ZORI and Apartment List rent data across 132 Virginia localities
+- **Data Governance at Scale** — Metadata management with Microsoft Purview and Informatica IDMC; developed a 42-rule DQ Rules Catalog and FIPS/locality matcher with 98.7% match accuracy
+- **Research & Publishing** — Building a publication portfolio on responsible AI in the public sector, targeting venues like EGOV 2026, *Government Information Quarterly*, and *AI & Ethics*
 
-<p>
-🌱 Currently Exploring:
+---
 
-	•	Learning advanced front-end frameworks like NEXT.js and Tailwind CSS
-	•	Actively looking for full-time opportunities in Data Engineering, Machine Learning, and Software Development.
-	•	Building skills in Power BI and AWS Solutions Architecture for enhanced project outcomes.
+## 🛠️ Languages & Tools
 
-🔍 Quick Facts:
+**Data & Cloud**
+`Python` `SQL` `Azure Databricks` `Microsoft Purview` `Informatica IDMC` `CKAN`
 
-	•	Pronouns: he/him
-	•	Engaged in philosophy and psychology, expanding my understanding of human behavior and thought.
-	•	Motivated by challenges and passionate about continuous learning
+**AI / ML**
+`LangChain` `Anthropic Claude API` `Sentence Transformers` `RAG` `Streamlit` `Ollama`
 
-</p>
+**Engineering**
+`PySpark` `Delta Lake` `Pandas` `REST APIs` `Git`
+
+**Other**
+`JavaScript` `React` `Node.js` `C++` `Figma`
+
+---
+
+## 🌱 Currently Exploring
+
+- Production RAG systems and LLM evaluation (RAGAS)
+- Azure AI Engineer (AI-102) & Databricks Generative AI Engineer certifications
+- Academic research on AI governance, MDM, and public sector data infrastructure
+- Agent design patterns and multi-turn LLM workflows
+
+---
+
+## 🔍 Quick Facts
+
+- 🎓 M.S. Computer & Information Sciences — George Mason University
+- 🏛️ Board member, [DAMA RVA Chapter](https://dama.org) (Data Management Association)
+- 💡 Interested in: data governance, responsible AI, open data policy, and competitive programming
+- 📬 Pronouns: he/him
