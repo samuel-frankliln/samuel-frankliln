@@ -10,10 +10,10 @@
 
 ## 🚀 What I'm Working On
 
-- **AI-powered open data discovery** — Building a RAG-based semantic search system on the [Virginia Open Data Portal](https://data.virginia.gov), enabling cross-agency dataset discovery using LLMs (Claude, all-MiniLM-L6-v2 embeddings, Streamlit UI)
-- **Affordability Dashboard** — Medallion architecture in Databricks (Azure), ingesting Zillow ZORI and Apartment List rent data across 132 Virginia localities
-- **Data Governance at Scale** — Metadata management with Microsoft Purview and Informatica IDMC; developed a 42-rule DQ Rules Catalog and FIPS/locality matcher with 98.7% match accuracy
-- **Research & Publishing** — Building a publication portfolio on responsible AI in the public sector, targeting venues like EGOV 2026, *Government Information Quarterly*, and *AI & Ethics*
+- **AI-powered open data discovery** 
+- **Affordability Dashboard** 
+- **Data Governance at Scale** 
+- **Research & Publishing**
 
 ---
 
